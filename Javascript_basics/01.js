@@ -1,1 +1,4 @@
-console.log("Harshit");
+const accountId=12334;
+let Email="harshit@google.com";
+console.log(accountId);
+console.log(Email);
